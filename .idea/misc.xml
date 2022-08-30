@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/OS/Desktop/LogInAndr/app/src/main/res/drawable/border.xml" value="0.1925" />
+        <entry key="..\:/Users/OS/Desktop/LogInAndr/app/src/main/res/drawable/borderbottom.xml" value="0.1925" />
+        <entry key="..\:/Users/OS/Desktop/LogInAndr/app/src/main/res/drawable/borderbottomwhite.xml" value="0.1925" />
+        <entry key="..\:/Users/OS/Desktop/LogInAndr/app/src/main/res/drawable/borderright.xml" value="0.1925" />
+        <entry key="..\:/Users/OS/Desktop/LogInAndr/app/src/main/res/layout/activity_login.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/OS/Desktop/LogInAndr/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/save/andr/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

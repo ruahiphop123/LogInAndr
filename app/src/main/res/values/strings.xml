@@ -3,4 +3,8 @@
     <string name="tv1">TV1</string>
     <string name="tv2">TV1</string>
     <string name="tv3">TV1</string>
+    <string name="back">Back</string>
+    <string name="email"><b>Email</b>: ricenguyen2310@gmail.com</string>
+    <string name="phone"><b>Phone</b>: 0906231002</string>
+    <string name="msv"><b>MSV</b>: 2050531200131</string>
 </resources>
